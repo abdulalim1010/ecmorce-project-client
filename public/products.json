@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://i.ibb.co.com/9HnRqQnY/1p.jpg",
+    "title": "Handcrafted Wooden Stool",
+    "description": "A rustic wooden stool perfect for any living room or bedroom corner.",
+    "price": 45
+  },
+  {
+    "image": "https://i.ibb.co.com/sdWc65CC/p2.jpg",
+    "title": "Minimalist Wall Shelf",
+    "description": "Floating wall shelf to organize small plants, frames, or books.",
+    "price": 30
+  },
+  {
+    "image": "https://i.ibb.co.com/S4yjW1Mc/p3.jpg",
+    "title": "Modern LED Table Lamp",
+    "description": "Elegant table lamp with warm white LED for cozy ambiance.",
+    "price": 60
+  },
+  {
+    "image": "https://i.ibb.co.com/wFszfCjd/p4.jpg",
+    "title": "Indoor Plant Stand",
+    "description": "Stylish metal stand to elevate your indoor plants.",
+    "price": 35
+  },
+  {
+    "image": "https://i.ibb.co.com/PG1tGQGX/5p.jpg",
+    "title": "Decorative Round Mirror",
+    "description": "Golden rimmed mirror to brighten up your wall.",
+    "price": 50
+  },
+  {
+    "image": "https://i.ibb.co.com/QjcKZBnR/6s.jpg",
+    "title": "Soft Room Carpet",
+    "description": "Velvet touch carpet adds comfort and elegance to your space.",
+    "price": 70
+  },
+  {
+    "image": "https://i.ibb.co.com/fd1QMfPG/p7.jpg",
+    "title": "Designer Cushion Set",
+    "description": "Set of 4 soft cotton cushions in pastel tones.",
+    "price": 40
+  },
+  {
+    "image": "https://i.ibb.co.com/RJR8zwb/p8.jpg",
+    "title": "Wooden Wall Clock",
+    "description": "Vintage-style wooden clock with silent sweep movement.",
+    "price": 38
+  },
+  {
+    "image": "https://i.ibb.co.com/M57KKNpn/p9.jpg",
+    "title": "Patterned Room Curtains",
+    "description": "2-piece stylish curtain set with abstract prints.",
+    "price": 55
+  },
+  {
+    "image": "https://i.ibb.co.com/hxzYvK6b/p10.jpg",
+    "title": "Corner Book Rack",
+    "description": "Compact bookshelf for your study or reading corner.",
+    "price": 48
+  },
+  {
+    "image": "https://i.ibb.co.com/JWqZznbk/p11.jpg",
+    "title": "Wall Photo Frame Set",
+    "description": "Set of 6 frames in various sizes to showcase memories.",
+    "price": 28
+  },
+  {
+    "image": "https://i.ibb.co.com/JW2CPCyT/p12.jpg",
+    "title": "Tall Floor Vase",
+    "description": "Elegant ceramic vase to decorate empty corners.",
+    "price": 65
+  }
+]
